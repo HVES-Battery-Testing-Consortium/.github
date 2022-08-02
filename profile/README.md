@@ -1,7 +1,7 @@
 # Battery Testing Consortium (BTC)
 The Battery Testing Consortium (BTC) has been developed within the High Voltage and Energy Storage Lab at Oxford Brookes University to provide accurate and comprehensive cell data to Formula Student Electric teams. Through the BTC, we aim to provide FS teams with information for improved and informed decisions for cell selection, pack architecture design, thermal cooling requirements, and end of life predictions. A range of tests are completed to provide a comprehensive electrochemical lithium-ion characterisation for modelling, validation, and battery management parameterisation.
 
-An example cell, the LG HG2 is available to view without joining the consortium. To join, please visit the [HVES website]. 
+An example cell, the LG HG2 is available to view without joining the consortium. To join, please visit the [HVES website].   
 Data will be uploaded to the relavent repository as available. 
 
 ## Consortium Cells
